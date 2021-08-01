@@ -1,16 +1,13 @@
-### Hi there 👋
+### 👋 Hi there! 
+I'm a computer science & graphics enthusiast, traditional art lover and a believer in gravity
 
-<!--
-**kadir014/kadir014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚒️ Technologies & Tools
+<img src="https://raw.githubusercontent.com/kadir014/kadir014.github.io/master/assets/clogo.png" width=35> <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/kadir014/kadir014.github.io/master/assets/pythonlogo.png" width=35></a> <a href="https://kotlinlang.org/"><img src="https://raw.githubusercontent.com/kadir014/kadir014.github.io/master/assets/kotlinlogo.png" width=35></a> <img src="https://raw.githubusercontent.com/kadir014/kadir014.github.io/master/assets/htmllogo.png" width=35> <img src="https://raw.githubusercontent.com/kadir014/kadir014.github.io/master/assets/csslogo.png" width=35> <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://raw.githubusercontent.com/kadir014/kadir014.github.io/master/assets/jslogo.png" width=35></a> <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/kadir014/kadir014.github.io/master/assets/postgrelogo.png" width=35></a> <a href="https://redis.io/"><img src="https://raw.githubusercontent.com/kadir014/kadir014.github.io/master/assets/redislogo.png" width=35></a> <a href="https://www.qt.io/"><img src="https://raw.githubusercontent.com/kadir014/kadir014.github.io/master/assets/qtlogo.png" width=40></a> <a href="https://github.com/moderngl/moderngl"><img src="https://avatars.githubusercontent.com/u/26459939?s=200&v=4" width=35></a> <a href="https://www.opengl.org"><img src="https://raw.githubusercontent.com/kadir014/kadir014.github.io/master/assets/opengllogo.png" width=65></a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧐 About me
+- 🎨 I love doing traditional art and digital pixel art as hobby
+- 🌱 Currently learning about interpreters and prog. language design
+- 💬 You can always reach me out for anything!
+- <img src="https://i.imgur.com/62IuQAp.png" width=20> &nbsp;lucysir#1320
+- <img src="https://i.imgur.com/OBut6Mp.png" width=20> &nbsp;<a href="https://www.reddit.com/user/selphakturem">u/selphakturem</a>
+- <img src="https://i.imgur.com/mLQKi5r.png" width=20>  &nbsp;<a href="https://myanimelist.net/profile/k4dir">MyAnimeList account</a>
