@@ -8,6 +8,6 @@ I'm a computer science & graphics enthusiast, traditional & digital art lover an
 - 🎨 I love doing art as hobby
 - 🌱 Currently learning about interpreters and prog. language design
 - 💬 You can always reach me out for anything!
-- <img src="https://i.imgur.com/62IuQAp.png" width=20> &nbsp;lucysir#0040
+- <img src="https://i.imgur.com/62IuQAp.png" width=20> &nbsp;lucysir#3139
 - <img src="https://i.imgur.com/OBut6Mp.png" width=20> &nbsp;<a href="https://www.reddit.com/user/selphakturem">u/selphakturem</a>
 - <img src="https://i.imgur.com/mLQKi5r.png" width=20>  &nbsp;<a href="https://myanimelist.net/profile/k4dir">MyAnimeList account</a>
